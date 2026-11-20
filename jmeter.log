@@ -1,40 +1,41 @@
-2026-11-20 18:58:27,536 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2026-11-20 18:58:27,570 INFO o.a.j.JMeter: Loading user properties from: /home/vscode/jmeter/bin/user.properties
-2026-11-20 18:58:27,572 INFO o.a.j.JMeter: Loading system properties from: /home/vscode/jmeter/bin/system.properties
-2026-11-20 18:58:27,583 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
-2026-11-20 18:58:27,583 INFO o.a.j.JMeter: Version 5.6.3
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: java.version=17.0.21.1
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: os.name=Linux
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: os.arch=amd64
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: os.version=6.8.0-1070-azure
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: file.encoding=UTF-8
-2026-11-20 18:58:27,584 INFO o.a.j.JMeter: java.awt.headless=null
-2026-11-20 18:58:27,585 INFO o.a.j.JMeter: Max memory     =1073741824
-2026-11-20 18:58:27,585 INFO o.a.j.JMeter: Available Processors =4
-2026-11-20 18:58:27,598 INFO o.a.j.JMeter: Default Locale=English (EN)
-2026-11-20 18:58:27,599 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2026-11-20 18:58:27,599 INFO o.a.j.JMeter: JMeterHome=/home/vscode/jmeter
-2026-11-20 18:58:27,599 INFO o.a.j.JMeter: user.dir  =/workspaces/jmeter-lab
-2026-11-20 18:58:27,599 INFO o.a.j.JMeter: PWD       =/workspaces/jmeter-lab
-2026-11-20 18:58:27,600 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: codespaces-b05584 FullName: localhost
-2026-11-20 18:58:27,622 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2026-11-20 18:58:27,976 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
-2026-11-20 19:03:48,666 INFO o.a.j.s.FileServer: Default base='/workspaces/jmeter-lab'
-2026-11-20 19:03:48,669 INFO o.a.j.g.a.Load: Loading file: /workspaces/jmeter-lab/plans/02_assertions_csv.jmx
-2026-11-20 19:03:48,669 INFO o.a.j.s.FileServer: Set new base='/workspaces/jmeter-lab/plans'
-2026-11-20 19:03:48,864 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2026-11-20 19:03:48,873 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2026-11-20 19:03:48,875 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2026-11-20 19:03:48,876 INFO o.a.j.s.SaveService: Loading file: /workspaces/jmeter-lab/plans/02_assertions_csv.jmx
-2026-11-20 19:03:48,905 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2026-11-20 19:03:48,906 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2026-11-20 19:03:48,906 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2026-11-20 19:03:48,906 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2026-11-20 19:03:48,907 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2026-11-20 19:03:48,907 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2026-11-20 19:03:49,169 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2026-11-20 19:03:49,169 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
-2026-11-20 19:03:49,170 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2026-11-20 19:03:49,170 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2026-11-20 19:03:49,422 INFO o.a.j.s.FileServer: Set new base='/workspaces/jmeter-lab/plans'
+2026-11-20 22:02:52,814 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-11-20 22:02:52,853 INFO o.a.j.JMeter: Loading user properties from: /home/vscode/jmeter/bin/user.properties
+2026-11-20 22:02:52,856 INFO o.a.j.JMeter: Loading system properties from: /home/vscode/jmeter/bin/system.properties
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: Version 5.6.3
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: java.version=17.0.21.1
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: os.name=Linux
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: os.arch=amd64
+2026-11-20 22:02:52,864 INFO o.a.j.JMeter: os.version=6.8.0-1070-azure
+2026-11-20 22:02:52,865 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-11-20 22:02:52,865 INFO o.a.j.JMeter: java.awt.headless=null
+2026-11-20 22:02:52,865 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-11-20 22:02:52,865 INFO o.a.j.JMeter: Available Processors =4
+2026-11-20 22:02:52,878 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-11-20 22:02:52,879 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-11-20 22:02:52,879 INFO o.a.j.JMeter: JMeterHome=/home/vscode/jmeter
+2026-11-20 22:02:52,880 INFO o.a.j.JMeter: user.dir  =/workspaces/jmeter-lab
+2026-11-20 22:02:52,880 INFO o.a.j.JMeter: PWD       =/workspaces/jmeter-lab
+2026-11-20 22:02:52,881 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: codespaces-b05584 FullName: localhost
+2026-11-20 22:02:52,904 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-11-20 22:02:53,230 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-11-20 22:05:24,366 INFO o.a.j.s.FileServer: Default base='/workspaces/jmeter-lab'
+2026-11-20 22:05:24,368 INFO o.a.j.g.a.Load: Loading file: /workspaces/jmeter-lab/plans/03_booking_flow.jmx
+2026-11-20 22:05:24,368 INFO o.a.j.s.FileServer: Set new base='/workspaces/jmeter-lab/plans'
+2026-11-20 22:05:24,579 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-11-20 22:05:24,589 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-11-20 22:05:24,591 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-11-20 22:05:24,592 INFO o.a.j.s.SaveService: Loading file: /workspaces/jmeter-lab/plans/03_booking_flow.jmx
+2026-11-20 22:05:24,612 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2026-11-20 22:05:24,617 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-11-20 22:05:24,618 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-11-20 22:05:24,618 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-11-20 22:05:24,618 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-11-20 22:05:24,618 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-11-20 22:05:24,618 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-11-20 22:05:24,995 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-11-20 22:05:24,995 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-11-20 22:05:24,995 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-11-20 22:05:24,995 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-11-20 22:05:25,191 INFO o.a.j.s.FileServer: Set new base='/workspaces/jmeter-lab/plans'
